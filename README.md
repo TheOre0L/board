@@ -1,2 +1,2 @@
 # board
-board project
+developing-board project
